@@ -1,0 +1,6 @@
+pytest
+dotenv
+numpy
+pandas
+websockets
+pydantic
